@@ -1,1 +1,1 @@
-first_number = class.Integer
+first_number = Integer
